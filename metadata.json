@@ -1,0 +1,7 @@
+{
+  "name": "M.Q.S - Math Question Solver",
+  "description": "An AI-powered web app that provides instant, step-by-step solutions to math problems. Users can input questions via text or by uploading a photo of handwritten or printed problems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
